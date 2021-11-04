@@ -1,6 +1,6 @@
 var tree = [];
 
-
+//making changes here
 function topOfTree(lines) {
     for (var i = 0; i < lines; i++) {
         tree[i] = printXStars(i,lines);
